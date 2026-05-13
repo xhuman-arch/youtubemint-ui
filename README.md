@@ -49,16 +49,7 @@ npm install
 npm run dev
 # → http://localhost:3000
 ```
-
-```bash
-# Type check
-npm run type-check
-
-# Build for production (Vercel / Netlify)
-npm run build && npm start
-```
 ---
-
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
