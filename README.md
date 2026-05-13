@@ -30,11 +30,6 @@ YouTubeMint is a full-stack YouTube media utility built to showcase modern front
 - **Quality selector** — 360p / 480p / 720p / 1080p / Best, with per-format FPS info
 - **MP3 extraction UI** — dedicated audio-focused download path (320 kbps in production)
 - **Full loading flow** — skeleton loaders, animated progress indicators, disabled states
-- **Error handling** — descriptive error states with retry UI
-- **Responsive navbar** — animated hamburger menu on mobile
-- **Accessible** — skip-to-content link, `aria-label`s, keyboard-navigable FAQ accordion
-- **Legal pages** — Privacy Policy, Terms of Use, DMCA, Contact, About
-- **Auto sitemap** — Next.js native `sitemap.ts`
 
 ---
 
