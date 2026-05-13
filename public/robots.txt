@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://youtubemint-demo.vercel.app/sitemap.xml
