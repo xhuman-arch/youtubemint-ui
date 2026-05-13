@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Demo](https://img.shields.io/badge/mode-demo-amber?style=flat-square)
 
-[Live Demo](https://youtubemint-demo.vercel.app) · [Report Issue](https://github.com/yourname/youtubemint/issues)
+[Live Demo](https://youtubemint.vercel.app/) · [Report Issue](https://github.com/yourname/youtubemint/issues)
 
 ![YouTubeMint Screenshot](https://via.placeholder.com/1200x630/0a0a0a/FF0000?text=YouTubeMint+Screenshot)
 
