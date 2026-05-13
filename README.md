@@ -39,7 +39,7 @@ No system dependencies required — this is a pure Next.js app.
 
 ```bash
 # 1. Clone
-git clone https://github.com/yourname/youtubemint.git
+git clone https://github.com/xhuman-arch/youtubemint-ui.git
 cd youtubemint
 
 # 2. Install
