@@ -1,6 +1,6 @@
 <div align="center">
 
-# YouTubeMint
+# YouTubeMint Demo
 
 **A modern YouTube media utility — UI showcase & portfolio demo**
 
